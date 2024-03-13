@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_Module_03 - Command 1</Text>
+    <Description>Some description for RAB_Module_03</Description>
+    <Assembly>RAB_Module_03.dll</Assembly>
+    <FullClassName>RAB_Module_03.Command1</FullClassName>
+    <ClientId>0f04e57f-f1ba-4f91-bd4e-05fa0c1fa880</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Module_03 - Command 2</Text>
+    <Description>Some description for RAB_Module_03</Description>
+    <Assembly>RAB_Module_03.dll</Assembly>
+    <FullClassName>RAB_Module_03.Command2</FullClassName>
+    <ClientId>c9c3b0e7-9a7c-4a07-985e-93b9de8c1a12</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Module_03</Name>
+    <Assembly>RAB_Module_03.dll</Assembly>
+    <FullClassName>RAB_Module_03.App</FullClassName>
+    <ClientId>e21f07e3-fdd4-4a50-953d-d2bb88a61992</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
