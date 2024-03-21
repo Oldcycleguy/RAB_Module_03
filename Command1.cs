@@ -26,6 +26,7 @@ namespace RAB_Module_03
 
             // Create instances of furniture class
 
+           GetFurnitureTypes();
 
 
             return Result.Succeeded;
